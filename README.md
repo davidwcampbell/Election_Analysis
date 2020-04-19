@@ -41,9 +41,9 @@ The Colorado Board of Election would like additional information about the voter
   - Jefferson
   - Denver
   - Arapahoe
-The county results were:
+- The county results were:
   - Jefferson had 10.5% of the votes and 38,855 votes.
   - Denver had 82.8% of the votes and 306,055 votes.
   - Arapahoe had 6.7% of the votes and 24,801 votes.
-The county with the highest turnout was Denver.
+- The county with the highest turnout was Denver.
   
